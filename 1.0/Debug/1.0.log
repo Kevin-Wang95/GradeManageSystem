@@ -1,0 +1,22 @@
+﻿生成启动时间为 8/25/2015 10:05:03 AM。
+     1>项目“K:\Tsinghua\大一下学期\计算机程序设计基础（2）\小学期大作业\1.0\1.0\1.0.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /FR"Debug\\" /Gd /TP /analyze- /errorReport:prompt baseclass.cpp main.cpp menu_ColorTextChoose.cpp system.cpp
+         system.cpp
+         menu_ColorTextChoose.cpp
+         main.cpp
+         baseclass.cpp
+         正在生成代码...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"K:\Tsinghua\大一下学期\计算机程序设计基础（2）\小学期大作业\1.0\Debug\1.0.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"K:\Tsinghua\大一下学期\计算机程序设计基础（2）\小学期大作业\1.0\Debug\1.0.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"K:\Tsinghua\大一下学期\计算机程序设计基础（2）\小学期大作业\1.0\Debug\1.0.lib" /MACHINE:X86 Debug\baseclass.obj
+         Debug\main.obj
+         Debug\menu_ColorTextChoose.obj
+         Debug\system.obj
+         1.0.vcxproj -> K:\Tsinghua\大一下学期\计算机程序设计基础（2）\小学期大作业\1.0\Debug\1.0.exe
+       BscMake:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\bscmake.exe /nologo /o"K:\Tsinghua\大一下学期\计算机程序设计基础（2）\小学期大作业\1.0\Debug\1.0.bsc" /n Debug\baseclass.sbr Debug\main.sbr Debug\menu_ColorTextChoose.sbr Debug\system.sbr
+     1>已完成生成项目“K:\Tsinghua\大一下学期\计算机程序设计基础（2）\小学期大作业\1.0\1.0\1.0.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:14.13

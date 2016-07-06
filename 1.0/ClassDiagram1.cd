@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ColorTextChoose_admin">
+    <Position X="8.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAQAAAAAAAAAAAAAAAAAACIAAAAAAAABAAA=</HashCode>
+      <FileName>menu_ColorTextChoose.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorTextChoose_student">
+    <Position X="8.25" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAQAAAAAEAAAAAAAAAAAACAAAAAAAAABAAA=</HashCode>
+      <FileName>menu_ColorTextChoose.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorTextChoose_teacher">
+    <Position X="10.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAQAAAAAAAAAAAAAAAAAACAAAAAAAAABAgA=</HashCode>
+      <FileName>menu_ColorTextChoose.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="course">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAQAAAgCAAAAIDAQAAQAEAAAAAAAAgADACAAA=</HashCode>
+      <FileName>baseclass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="coursepass">
+    <Position X="8" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAIAAAAAAAAAAAAAAAAAAEAAAAAAYAAAAAAAAA=</HashCode>
+      <FileName>baseclass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="coursescore">
+    <Position X="5.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAACIAAAAAAAAAAIAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>baseclass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="person">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAABAAAQAAQAAAAAQAIAAAAgAEAAAAAAAACIiAACA=</HashCode>
+      <FileName>baseclass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="status">
+    <Position X="10.5" Y="2.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIAAQAoAAAAAAAAAAAAAAgAACAAAACAAAAAAAAA=</HashCode>
+      <FileName>baseclass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="studentpass">
+    <Position X="7.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>baseclass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="studentscore">
+    <Position X="5.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>baseclass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="teacher" Collapsed="true">
+    <Position X="2.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>baseclass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>
